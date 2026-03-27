@@ -73,7 +73,7 @@ A properties file configured with paths to input files (vehicles, rentals) and o
 Setup and Installation
 
 Clone the Repository:
-textgit clone https://github.com/your-username/electric-vehicle-rental-simulation.git
+textgit clone https://github.com/gordanatub/eMobilitySimulation-main.git
 cd electric-vehicle-rental-simulation
 
 Configure Properties:
