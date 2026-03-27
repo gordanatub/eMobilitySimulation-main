@@ -3,11 +3,12 @@ The system handles all aspects of e-mobility operations from rental simulation t
 
 This is a Java-based simulation project for an electric vehicle rental system. It models the rental process for vehicles such as automobiles, bicycles, and scooters, including features like customer management, vehicle malfunctions, receipt generation, and reporting. The project uses multithreading for simulating concurrent rentals and includes a basic GUI for visualizing vehicle movements on a grid representing a city.
 The project appears to be developed as part of a university assignment (based on package naming from University of Banja Luka, ETF). Comments in the code are primarily in Serbian, with English variable and class names.
-![image alt](https://github.com/gordanatubonjic/eMobilitySimulation/blob/main/screenshots/Map.png?raw=true)
-![image alt](https://github.com/gordanatubonjic/eMobilitySimulation/blob/main/screenshots/Vehicles.png?raw=true)
-![image alt](https://github.com/gordanatubonjic/eMobilitySimulation/blob/main/screenshots/Malfunctions.png?raw=true)
-![image alt](https://github.com/gordanatubonjic/eMobilitySimulation/blob/main/screenshots/Report.png?raw=true)
-![image alt](https://github.com/gordanatubonjic/eMobilitySimulation/blob/main/screenshots/Repairs.png?raw=true)
+![image alt](https://github.com/gordanatub/eMobilitySimulation-main/blob/main/screenshots/Map.png?raw=true)
+![image alt](https://github.com/gordanatub/eMobilitySimulation-main/blob/main/screenshots/Vehicles.png?raw=true)
+![image alt](https://github.com/gordanatub/eMobilitySimulation-main/blob/main/screenshots/Malfunctions.png?raw=true)
+![image alt](https://github.com/gordanatub/eMobilitySimulation-main/blob/main/screenshots/Report.png?raw=true)
+![image alt](https://github.com/gordanatub/eMobilitySimulation-main/blob/main/screenshots/Repairs.png?raw=true)
+
 
 Table of Contents
 
